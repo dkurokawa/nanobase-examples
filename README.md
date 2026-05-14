@@ -1,5 +1,5 @@
-> **⚠️ ARCHIVED — このリポジトリは [ppn-mono/domains/nanobase](https://github.com/dkurokawa/ppn-mono/tree/main/domains/nanobase) に統合されました。**
-> 以降の開発は ppn-mono 側で行われます。本リポジトリは read-only です (2026-05-13)。
+> **⚠️ ARCHIVED — このリポジトリは [dkurokawa/nano-samples](https://github.com/dkurokawa/nano-samples) に統合されました。**
+> 以降の開発は nano-samples 側で行われます。本リポジトリは read-only です (2026-05-14)。
 
 # nanobase-examples
 
